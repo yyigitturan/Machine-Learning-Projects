@@ -17,10 +17,6 @@
 - **Achievements** such as medals on Kaggle are displayed to build credibility.
 
 
-## 🔗 Key Points
-- Each project includes a **Kaggle link** for datasets and detailed notebooks.
-- **Techniques and methods** are highlighted to showcase the machine learning and statistical tools applied.
-- **Achievements** such as medals on Kaggle are displayed to build credibility.
 
 
 
